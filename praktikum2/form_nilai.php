@@ -94,9 +94,6 @@
         echo "<br/>Nilai Tugas : $nilai_tugas";
     ?>
 
-<div style="text-align: right;">
-    <div>Develop by @haykaljoban @2022</div>
-</div>
  </div>
 </body>
 </html>
