@@ -139,9 +139,5 @@
             }
         }
     ?>
-    <div style="text-align: center">
-        <div>Develop by @haykaljoban @2022</div>
-    </div>
-    </div>
 </body>
 </html>
